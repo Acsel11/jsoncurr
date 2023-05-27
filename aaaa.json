@@ -4,15 +4,15 @@
     "timestamp": "2023-05-26"
   },
   "member": {
-    "name": "John Doe",
-    "title": "Software Developer",
-    "phone": "+1 123-456-7890",
-    "email": "johndoe@example.com",
-    "location": "New York, USA",
-    "experience": "5 years",
-    "education": "Bachelor's Degree in Computer Science",
+    "name": "Axel Moncloa",
+    "title": "Ingeniero Ciencias de la Computacion",
+    "phone": "614 109 46 12",
+    "email": "a348752@uach.mx",
+    "location": "Chihuahua Chihuahua",
+    "experience": "3 años como ing jr",
+    "education": "Licenciatura en Ing Ciencias de la Computacion",
     "skills": ["Java", "Python", "JavaScript"],
-    "languages": ["English", "Spanish", "French"]
+    "languages": ["ingles", "español", "aleman"]
   }
 }
 
