@@ -1,0 +1,24 @@
+{
+  "header": {
+    "name": "John Doe",
+    "title": "Software Developer"
+  },
+  "member": {
+    "name": "John Doe",
+    "title": "Software Developer",
+    "phone": "123456789",
+    "email": "johndoe@example.com",
+    "location": "New York, USA",
+    "experience": "5+ years",
+    "education": "Bachelor's Degree in Computer Science",
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ]
+  }
+}
