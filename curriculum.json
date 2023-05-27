@@ -1,0 +1,36 @@
+{
+  "header": {
+    "name": "Axel Mocnloa",
+    "title": "Ing en ciencias de la computacion"
+  },
+  "contact": {
+    "phone": "6141094612",
+    "email": "a348752@uach.mx",
+    "location": "Chihuahua, Chihuahua, Mexico"
+  },
+  "experience": [
+    {
+      "company": "Uber eats",
+      "position": "repartidor",
+      "dates": "10/02/2022 - 23/04/2023",
+      "description": "Realizar entregas de comida."
+    }
+  ],
+  "education": [
+    {
+      "university": "Universidad Autonoma Del Estado De chihuahua",
+      "degree": "ingeniero en ciencias de la computacion",
+      "dates": "18/08/2020 - 1/12/2024"
+    }
+  ],
+  "skills": [
+    "Diseñador de paginas web",
+    "Diseñador de base de datos",
+    "Developer de aplicaciones moviles"
+  ],
+  "languages": [
+    "Español",
+    "Ingles",
+    "Aleman"
+  ]
+}
