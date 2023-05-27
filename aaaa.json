@@ -1,24 +1,18 @@
 {
   "header": {
-    "name": "John Doe",
-    "title": "Software Developer"
+    "version": "1.0",
+    "timestamp": "2023-05-26"
   },
   "member": {
     "name": "John Doe",
     "title": "Software Developer",
-    "phone": "123456789",
+    "phone": "+1 123-456-7890",
     "email": "johndoe@example.com",
     "location": "New York, USA",
-    "experience": "5+ years",
+    "experience": "5 years",
     "education": "Bachelor's Degree in Computer Science",
-    "skills": [
-      "Java",
-      "Python",
-      "JavaScript"
-    ],
-    "languages": [
-      "English",
-      "Spanish"
-    ]
+    "skills": ["Java", "Python", "JavaScript"],
+    "languages": ["English", "Spanish", "French"]
   }
 }
+
